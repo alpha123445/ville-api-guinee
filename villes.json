@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "nom": "Beyla",
+        "region": "Beyla",
+        "arrondissements": []
+    },
+    {
+        "id": 2,
+        "nom": "Boffa",
+        "region": "Boffa",
+        "arrondissements": []
+    },
+    {
+        "id": 3,
+        "nom": "Boké",
+        "region": "Boké",
+        "arrondissements": []
+    },
+    {
+        "id": 4,
+        "nom": "Conakry",
+        "region": "Conakry",
+        "arrondissements": ["Kaloum", "Dixinn", "Matam", "Matoto", "Ratoma"]
+    },
+    {
+        "id": 5,
+        "nom": "Coyah",
+        "region": "Coyah",
+        "arrondissements": []
+    },
+    {
+        "id": 6,
+        "nom": "Dabola",
+        "region": "Dabola",
+        "arrondissements": []
+    },
+    {
+        "id": 7,
+        "nom": "Dalaba",
+        "region": "Dalaba",
+        "arrondissements": []
+    },
+    {
+        "id": 8,
+        "nom": "Dinguiraye",
+        "region": "Dinguiraye",
+        "arrondissements": []
+    },
+    {
+        "id": 9,
+        "nom": "Dubreka",
+        "region": "Dubreka",
+        "arrondissements": []
+    },
+    {
+        "id": 10,
+        "nom": "Faranah",
+        "region": "Faranah",
+        "arrondissements": []
+    },
+    {
+        "id": 11,
+        "nom": "Forecariah",
+        "region": "Forecariah",
+        "arrondissements": []
+    },
+    {
+        "id": 12,
+        "nom": "Fria",
+        "region": "Fria",
+        "arrondissements": []
+    },
+    {
+        "id": 13,
+        "nom": "Gaoual",
+        "region": "Gaoual",
+        "arrondissements": []
+    },
+    {
+        "id": 14,
+        "nom": "Gueckedou",
+        "region": "Gueckedou",
+        "arrondissements": []
+    },
+    {
+        "id": 15,
+        "nom": "Kamsar",
+        "region": "Boké",
+        "arrondissements": []
+    },
+    {
+        "id": 16,
+        "nom": "Kankan",
+        "region": "Kankan",
+        "arrondissements": []
+    },
+    {
+        "id": 17,
+        "nom": "Kérouane",
+        "region": "Kérouane",
+        "arrondissements": []
+    },
+    {
+        "id": 18,
+        "nom": "Kindia",
+        "region": "Kindia",
+        "arrondissements": []
+    },
+    {
+        "id": 19,
+        "nom": "Kissidougou",
+        "region": "Kissidougou",
+        "arrondissements": []
+    },
+    {
+        "id": 20,
+        "nom": "Koubia",
+        "region": "Koubia",
+        "arrondissements": []
+    },
+    {
+        "id": 21,
+        "nom": "Koundara",
+        "region": "Koundara",
+        "arrondissements": []
+    },
+    {
+        "id": 22,
+        "nom": "Kouroussa",
+        "region": "Kouroussa",
+        "arrondissements": []
+    },
+    {
+        "id": 23,
+        "nom": "Labé",
+        "region": "Labé",
+        "arrondissements": []
+    },
+    {
+        "id": 24,
+        "nom": "Lélouma",
+        "region": "Lélouma",
+        "arrondissements": []
+    },
+    {
+        "id": 25,
+        "nom": "Lola",
+        "region": "Lola",
+        "arrondissements": []
+    },
+    {
+        "id": 26,
+        "nom": "Macenta",
+        "region": "Macenta",
+        "arrondissements": []
+    },
+    {
+        "id": 27,
+        "nom": "Mali",
+        "region": "Mali",
+        "arrondissements": []
+    },
+    {
+        "id": 28,
+        "nom": "Mamou",
+        "region": "Mamou",
+        "arrondissements": []
+    },
+    {
+        "id": 29,
+        "nom": "Mandiana",
+        "region": "Mandiana",
+        "arrondissements": []
+    },
+    {
+        "id": 30,
+        "nom": "N'Zérékoré",
+        "region": "N'Zérékoré",
+        "arrondissements": []
+    },
+    {
+        "id": 32,
+        "nom": "Siguiri",
+        "region": "Siguiri",
+        "arrondissements": []
+    },
+    {
+        "id": 33,
+        "nom": "Télimélé",
+        "region": "Télimélé",
+        "arrondissements": []
+    },
+    {
+        "id": 34,
+        "nom": "Tougué",
+        "region": "Tougué",
+        "arrondissements": []
+    },
+    {
+        "id": 35,
+        "nom": "Yomou",
+        "region": "Yomou",
+        "arrondissements": []
+    },
+    {
+        "id": 36,
+        "nom": "Youkounkoun",
+        "region": "Youkounkoun",
+        "arrondissements": []
+    }
+]
