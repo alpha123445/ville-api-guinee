@@ -11,5 +11,5 @@ app.get("/villes", (req, res) => {
     res.json(villes);
 });
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`API en ligne sur http://localhost:${PORT}`));
+// const PORT = process.env.PORT || 3000;
+// app.listen(PORT, () => console.log(`API en ligne sur http://localhost:${PORT}`));
